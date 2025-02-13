@@ -22,14 +22,14 @@ int main(int argc, char *argv[])
     if (argc != 2)
     {
         fprintf(stderr, "Usage: %s <file_path>\n", argv[0]);
-        return EXIT_FAILURE;
+        return 1;
     }
 
     FILE *file = fopen(argv[1], "r");
     if (!file)
     {
         perror("Error opening file");
-        return EXIT_FAILURE;
+        return 1;
     }
 
     int count[ASCII_SIZE] = {0};
@@ -64,5 +64,5 @@ int main(int argc, char *argv[])
         }
     }
 
-    return EXIT_SUCCESS;
+    return 0;
 }
