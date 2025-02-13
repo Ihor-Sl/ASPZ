@@ -18,7 +18,6 @@ int compare(const void *a, const void *b)
 }
 
 int main(int argc, char *argv[])
-
 {
     if (argc != 2)
     {
