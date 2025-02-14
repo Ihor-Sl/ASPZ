@@ -1,36 +1,23 @@
-# Character Frequency Analyzer in C
+# Практична робота №1
+# Варіант 19
 
-## Requirements
+Реалізуйте програму, яка зчитує з файлу текст та визначає частоту кожного символу. Виведіть символи у порядку спадання їх частоти.
 
-- A C compiler (such as GCC).
-- A text file for input.
+## Вимоги
 
-## Compilation
+- C компілятор (GCC).
+- Текстовий файл який подається на вхід у програму.
+
+## Компіляція
 
 ```
 gcc -Wall char_freq.c -o char_freq
 ```
 
-## Execution
+## Виконання
 
 ```
 ./char_freq <file_path>
 ```
 
-## Example Output
-
-```
-Character | Frequency
-------------------------
-    ' '   |    363
-    'r'   |    85
-    'e'   |    66
-    'i'   |    56
-    'n'   |    47
-    'c'   |    45
-    't'   |    44
-    'f'   |    39
-    'a'   |    37
-    ';'   |    29
-    '-'   |    27
-```
+![](execution.png)
