@@ -2,20 +2,12 @@
 #include <stdlib.h>
 
 int main() {
-    void *ptr = realloc(NULL, 100);
-    if (ptr == NULL) {
-        perror("realloc with NULL");
-    } else {
-        printf("realloc with NULL succeeded\n");
-    }
-    
-    void *ptr2 = realloc(ptr, 0);
-    if (ptr2 == NULL) {
-        printf("realloc with size 0 returned NULL\n");
-    }
-
+    void *ptr = realloc(NULL, 1024);
+    printf("realloc(NULL, 1024) = %p\n", ptr);
     free(ptr);
-    free(ptr2);
 
+    ptr = malloc(1024);
+    void *new_ptr = realloc(ptr, 0);
+    printf("realloc(ptr, 0) = %p\n", new_ptr);
     return 0;
 }
