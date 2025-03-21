@@ -10,10 +10,10 @@ int main() {
 
     struct sbar *ptr, *newptr;
     ptr = calloc(1000, sizeof(struct sbar));
-    printf("Memory allocated for %zu elements\n", 1000);
+    printf("Memory allocated for %d elements\n", 1000);
 
     newptr = realloc(ptr, 500*sizeof(struct sbar));
-    printf("Memory reallocated to %zu elements\n", 500);
+    printf("Memory reallocated to %d elements\n", 500);
 
     free(newptr);
 
