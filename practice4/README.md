@@ -183,14 +183,14 @@ Memory reallocated to 500 elements
 admin@FreeBSD:~/ASPZ/practice4 $ ltrace ./7_1
 Couldn't determine base address of [vdso]
 Couldn't load ELF object [vdso]: No such file or directory
-__libc_start1(1, 0x820773448, 0x820773458, 0x210a663fccc0, 0x400662 <unfinished ...>
-calloc(1000, 4)                                                     = 0x8475c009000
-printf("Memory allocated for %zu element"..., 1000Memory allocated for 1000 elements
+__libc_start1(1, 0x820866058, 0x820866068, 0x346398dc7cc0, 0x400662 <unfinished ...>
+calloc(1000, 4)                                                     = 0x177455009000
+printf("Memory allocated for %d elements"..., 1000Memory allocated for 1000 elements
 )                 = 35
-realloc(0x8475c009000, 2000)                                        = 0x8475c013000
-printf("Memory reallocated to %zu elemen"..., 500Memory reallocated to 500 elements
+realloc(0x177455009000, 2000)                                       = 0x177455013000
+printf("Memory reallocated to %d element"..., 500Memory reallocated to 500 elements
 )                  = 35
-free(0x8475c013000)                                                 = <void>
+free(0x177455013000)                                                = <void>
 +++ exited (status 0) +++
 admin@FreeBSD:~/ASPZ/practice4 $ gcc 7_2.c -o 7_2
 admin@FreeBSD:~/ASPZ/practice4 $ ./7_2
@@ -199,14 +199,14 @@ Memory reallocated to 500 elements
 admin@FreeBSD:~/ASPZ/practice4 $ ltrace ./7_2
 Couldn't determine base address of [vdso]
 Couldn't load ELF object [vdso]: No such file or directory
-__libc_start1(1, 0x820653208, 0x820653218, 0x320bbd6bdcc0, 0x4006c2 <unfinished ...>
-calloc(1000, 4)                                                     = 0x3732a2609000
+__libc_start1(1, 0x8210b8928, 0x8210b8938, 0x3c100c1dbcc0, 0x4006c2 <unfinished ...>
+calloc(1000, 4)                                                     = 0xbbe7e409000
 printf("Memory allocated for %zu element"..., 1000Memory allocated for 1000 elements
 )                 = 35
-reallocarray(0x3732a2609000, 500, 4, 500, 0x8230f6618)              = 0x3732a2613000
+reallocarray(0xbbe7e409000, 500, 4, 500, 0x821ed0618)               = 0xbbe7e413000
 printf("Memory reallocated to %zu elemen"..., 500Memory reallocated to 500 elements
 )                  = 35
-free(0x3732a2613000)                                                = <void>
+free(0xbbe7e413000)                                                 = <void>
 +++ exited (status 0) +++
 admin@FreeBSD:~/ASPZ/practice4 $
 ```
