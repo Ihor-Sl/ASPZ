@@ -173,11 +173,41 @@ admin@FreeBSD:~/ASPZ/practice4 $
 
 Переписано код, використовуючи reallocarray(3)
 
+Досліджено за допомогою ltrace
+
 ```shell
-admin@FreeBSD:~/ASPZ/practice4 $ gcc 7.c -o 7
-admin@FreeBSD:~/ASPZ/practice4 $ ./7
+admin@FreeBSD:~/ASPZ/practice4 $ gcc 7_1.c -o 7_1
+admin@FreeBSD:~/ASPZ/practice4 $ ./7_1
 Memory allocated for 1000 elements
 Memory reallocated to 500 elements
+admin@FreeBSD:~/ASPZ/practice4 $ ltrace ./7_1
+Couldn't determine base address of [vdso]
+Couldn't load ELF object [vdso]: No such file or directory
+__libc_start1(1, 0x820773448, 0x820773458, 0x210a663fccc0, 0x400662 <unfinished ...>
+calloc(1000, 4)                                                     = 0x8475c009000
+printf("Memory allocated for %zu element"..., 1000Memory allocated for 1000 elements
+)                 = 35
+realloc(0x8475c009000, 2000)                                        = 0x8475c013000
+printf("Memory reallocated to %zu elemen"..., 500Memory reallocated to 500 elements
+)                  = 35
+free(0x8475c013000)                                                 = <void>
++++ exited (status 0) +++
+admin@FreeBSD:~/ASPZ/practice4 $ gcc 7_2.c -o 7_2
+admin@FreeBSD:~/ASPZ/practice4 $ ./7_2
+Memory allocated for 1000 elements
+Memory reallocated to 500 elements
+admin@FreeBSD:~/ASPZ/practice4 $ ltrace ./7_2
+Couldn't determine base address of [vdso]
+Couldn't load ELF object [vdso]: No such file or directory
+__libc_start1(1, 0x820653208, 0x820653218, 0x320bbd6bdcc0, 0x4006c2 <unfinished ...>
+calloc(1000, 4)                                                     = 0x3732a2609000
+printf("Memory allocated for %zu element"..., 1000Memory allocated for 1000 elements
+)                 = 35
+reallocarray(0x3732a2609000, 500, 4, 500, 0x8230f6618)              = 0x3732a2613000
+printf("Memory reallocated to %zu elemen"..., 500Memory reallocated to 500 elements
+)                  = 35
+free(0x3732a2613000)                                                = <void>
++++ exited (status 0) +++
 admin@FreeBSD:~/ASPZ/practice4 $
 ```
 
