@@ -29,6 +29,8 @@ Address 0x000801644020 is located in stack of thread T0 at offset 32 in frame
 
 AddressSanitizer з опцією detect_stack_use_after_return=1 успішно виявив помилку — спробу доступу до памʼяті, яка більше не є дійсною, бо була частиною стеку функції, що вже завершилася.
 
+## Запуск програми
+
 ```shell
 admin@FreeBSD:~/ASPZ/practice6 $ gmake mem_issues_dbg_asan
 clang -g -ggdb -gdwarf-4 -O0 -Wall -Wextra -DDEBUG -fsanitize=address -c mem_issues.c -o mem_issues_dbg_asan.o
