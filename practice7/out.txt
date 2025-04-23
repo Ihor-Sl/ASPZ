@@ -1,0 +1,1847 @@
+PID 0 -> /
+PID 0 -> /
+PID 896 -> /usr/libexec/getty
+PID 896 -> /dev/ttyv7
+PID 896 -> /
+PID 896 -> /
+PID 896 -> /dev/ttyv7
+PID 896 -> /dev/ttyv7
+PID 896 -> /dev/ttyv7
+PID 928 -> /usr/local/libexec/upowerd
+PID 928 -> /
+PID 928 -> /
+PID 928 -> /dev/null
+PID 928 -> /dev/null
+PID 928 -> /dev/null
+PID 928 -> local
+PID 928 -> local
+PID 1056 -> /usr/local/libexec/gsd-keyboard
+PID 1056 -> /home/admin
+PID 1056 -> /
+PID 1056 -> /dev/null
+PID 1056 -> local
+PID 1056 -> local
+PID 1056 -> local
+PID 1056 -> local
+PID 1088 -> /usr/local/bin/VBoxClient
+PID 1088 -> /
+PID 1088 -> /
+PID 1088 -> /dev/null
+PID 1088 -> /dev/null
+PID 1088 -> /dev/null
+PID 1088 -> /dev/vboxguest
+PID 1088 -> local
+PID 1 -> /sbin/init
+PID 1 -> /
+PID 1 -> /
+PID 449 -> /sbin/dhclient
+PID 449 -> /
+PID 449 -> /
+PID 449 -> /dev/null
+PID 449 -> /dev/null
+PID 449 -> /dev/null
+PID 449 -> /var/run/dhclient
+PID 449 -> local
+PID 449 -> /var/run/dhclient/dhclient.em0.pid
+PID 449 -> /dev/bpf
+PID 449 -> internet
+PID 2817 -> /bin/sh
+PID 2817 -> /dev/pts/0
+PID 2817 -> /home/admin/ASPZ/practice7
+PID 2817 -> /
+PID 2817 -> /dev/pts/0
+PID 2817 -> /dev/pts/0
+PID 2817 -> /dev/pts/0
+PID 2817 -> /dev/pts/0
+PID 2817 -> /home/admin/.config/Code - OSS/logs/20250424T004224/ptyhost.log
+PID 2817 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2817 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2817 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2817 -> /usr/local/share/code-oss/resources.pak
+PID 2817 -> local
+PID 2817 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2817 -> local
+PID 2817 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2817 -> local
+PID 2817 -> local
+PID 2817 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2817 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2817 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2817 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2817 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2817 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2817 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2817 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2817 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2817 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2817 -> local
+PID 2817 -> local
+PID 2817 -> /home/admin/.config/Code - OSS/User
+PID 2817 -> local
+PID 2817 -> local
+PID 2817 -> local
+PID 2817 -> /dev/null
+PID 2817 -> local
+PID 2817 -> /dev/null
+PID 2817 -> local
+PID 2817 -> local
+PID 2817 -> /dev/null
+PID 2817 -> local
+PID 2817 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2817 -> /home/admin/.config/Code - OSS/User
+PID 2817 -> /home/admin/.config/Code - OSS/logs/20250424T004224/terminal.log
+PID 2817 -> /home/admin/.config/Code - OSS/logs/20250424T004224/sharedprocess.log
+PID 2817 -> /
+PID 2817 -> /etc
+PID 2817 -> /etc/localtime
+PID 2817 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2817 -> /dev/null
+PID 2817 -> local
+PID 2817 -> local
+PID 2817 -> /home/admin/.config/Code - OSS/logs/20250424T004224/remoteTunnelService.log
+PID 801 -> /usr/local/sbin/VBoxService
+PID 801 -> /
+PID 801 -> /
+PID 801 -> /dev/null
+PID 801 -> /dev/null
+PID 801 -> /dev/null
+PID 801 -> /dev/vboxguest
+PID 801 -> local
+PID 1025 -> /usr/local/bin/pulseaudio
+PID 1025 -> /
+PID 1025 -> /
+PID 1025 -> /dev/null
+PID 1025 -> /dev/null
+PID 1025 -> /dev/null
+PID 1025 -> local
+PID 1025 -> local
+PID 1025 -> local
+PID 1025 -> local
+PID 1025 -> local
+PID 1025 -> local
+PID 1025 -> local
+PID 1025 -> local
+PID 1025 -> local
+PID 1090 -> /usr/local/bin/VBoxClient
+PID 1090 -> /
+PID 1090 -> /
+PID 1090 -> /dev/null
+PID 1090 -> /dev/null
+PID 1090 -> /dev/null
+PID 1090 -> /dev/vboxguest
+PID 1282 -> /usr/bin/ssh-agent
+PID 1282 -> /
+PID 1282 -> /
+PID 1282 -> /dev/null
+PID 1282 -> /dev/null
+PID 1282 -> local
+PID 995 -> /usr/bin/ssh-agent
+PID 995 -> /
+PID 995 -> /
+PID 995 -> /dev/null
+PID 995 -> /dev/null
+PID 995 -> /dev/null
+PID 995 -> local
+PID 1027 -> /usr/local/libexec/evolution-source-registry
+PID 1027 -> /
+PID 1027 -> /
+PID 1027 -> /dev/null
+PID 1027 -> /dev/null
+PID 1027 -> /dev/null
+PID 1027 -> local
+PID 1027 -> /usr/local/lib/evolution-data-server/registry-modules
+PID 1027 -> /home/admin/.config/evolution/sources
+PID 1059 -> /usr/local/bin/gjs-console
+PID 1059 -> /
+PID 1059 -> /
+PID 1059 -> /dev/null
+PID 1059 -> /dev/null
+PID 1059 -> /dev/null
+PID 1059 -> local
+PID 1092 -> /usr/local/bin/VBoxClient
+PID 1092 -> /
+PID 1092 -> /
+PID 1092 -> /dev/null
+PID 1092 -> /dev/null
+PID 1092 -> /dev/null
+PID 1092 -> /dev/vboxguest
+PID 1092 -> /home/admin/.vboxclient-draganddrop.pid
+PID 1092 -> local
+PID 1029 -> /usr/local/libexec/goa-daemon
+PID 1029 -> /
+PID 1029 -> /
+PID 1029 -> /dev/null
+PID 1029 -> /dev/null
+PID 1029 -> /dev/null
+PID 1029 -> local
+PID 1029 -> /home/admin/.config/goa-1.0
+PID 1029 -> netlink
+PID 1061 -> /usr/local/libexec/gsd-printer
+PID 1061 -> /home/admin
+PID 1061 -> /
+PID 1061 -> /dev/null
+PID 1061 -> local
+PID 1061 -> local
+PID 1093 -> /usr/local/bin/VBoxClient
+PID 1093 -> /
+PID 1093 -> /
+PID 1093 -> /dev/null
+PID 1093 -> /dev/null
+PID 1093 -> /dev/null
+PID 1093 -> /dev/vboxguest
+PID 902 -> /usr/local/libexec/accounts-daemon
+PID 902 -> /
+PID 902 -> /
+PID 902 -> /dev/null
+PID 902 -> /dev/null
+PID 902 -> /dev/null
+PID 902 -> local
+PID 902 -> /etc
+PID 902 -> /etc/passwd
+PID 902 -> /etc
+PID 902 -> /etc
+PID 902 -> /etc/group
+PID 902 -> /var/log
+PID 902 -> /var/log/utx.log
+PID 1094 -> /usr/local/bin/VBoxClient
+PID 1094 -> /
+PID 1094 -> /
+PID 1094 -> /dev/null
+PID 1094 -> /dev/null
+PID 1094 -> /dev/null
+PID 1094 -> /dev/vboxguest
+PID 1094 -> local
+PID 1094 -> local
+PID 519 -> /sbin/devd
+PID 519 -> /
+PID 519 -> /
+PID 519 -> /dev/null
+PID 519 -> /dev/null
+PID 519 -> /dev/null
+PID 519 -> /dev/devctl
+PID 519 -> local
+PID 519 -> local
+PID 519 -> /var/run
+PID 519 -> /var/run/devd.pid
+PID 519 -> local
+PID 519 -> local
+PID 519 -> local
+PID 519 -> local
+PID 519 -> local
+PID 519 -> local
+PID 519 -> local
+PID 903 -> /usr/local/libexec/Xorg
+PID 903 -> /
+PID 903 -> /
+PID 903 -> /dev/null
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> /dev/pci
+PID 903 -> /dev/mem
+PID 903 -> /dev/pci
+PID 903 -> /dev/ttyv8
+PID 903 -> /dev/io
+PID 903 -> /dev/io
+PID 903 -> /dev/input/event0
+PID 903 -> /dev/input/event1
+PID 903 -> /dev/input/event2
+PID 903 -> /dev/input/event3
+PID 903 -> /dev/vboxguest
+PID 903 -> /dev/vboxguest
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 903 -> local
+PID 999 -> /usr/local/bin/dbus-launch
+PID 999 -> /
+PID 999 -> /
+PID 999 -> /dev/null
+PID 999 -> /dev/null
+PID 999 -> /dev/null
+PID 999 -> local
+PID 999 -> local
+PID 1031 -> /usr/local/bin/gjs-console
+PID 1031 -> /
+PID 1031 -> /
+PID 1031 -> /dev/null
+PID 1031 -> /dev/null
+PID 1031 -> /dev/null
+PID 1031 -> local
+PID 1063 -> /usr/local/libexec/evolution-addressbook-factory
+PID 1063 -> /
+PID 1063 -> /
+PID 1063 -> /dev/null
+PID 1063 -> /dev/null
+PID 1063 -> /dev/null
+PID 1063 -> local
+PID 1063 -> /usr/local/lib/evolution-data-server/addressbook-backends
+PID 1063 -> local
+PID 1063 -> netlink
+PID 1063 -> /home/admin/.local/share/evolution/addressbook/system/contacts.db
+PID 808 -> /usr/local/sbin/console-kit-daemon
+PID 808 -> /
+PID 808 -> /
+PID 808 -> /dev/null
+PID 808 -> /dev/null
+PID 808 -> /dev/null
+PID 808 -> local
+PID 808 -> /var/log/ConsoleKit/history
+PID 808 -> local
+PID 808 -> /var/run/ConsoleKit/inhibit/inhibit.GS2P12.pipe
+PID 808 -> /var/run/ConsoleKit/inhibit/inhibit.RAVP32.pipe
+PID 808 -> /var/run/ConsoleKit/inhibit/inhibit.HZVP32.pipe
+PID 808 -> /var/run/ConsoleKit/inhibit/inhibit.MUVH12.pipe
+PID 840 -> /usr/sbin/cron
+PID 840 -> /var/cron
+PID 840 -> /
+PID 840 -> /dev/null
+PID 840 -> /dev/null
+PID 840 -> /dev/null
+PID 840 -> /var/run
+PID 840 -> /var/run/cron.pid
+PID 1000 -> /usr/local/bin/dbus-daemon
+PID 1000 -> /
+PID 1000 -> /
+PID 1000 -> /dev/null
+PID 1000 -> /dev/null
+PID 1000 -> /dev/null
+PID 1000 -> local
+PID 1000 -> /usr/local/share/dbus-1/session.d
+PID 1000 -> /usr/local/share/dbus-1/services
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1000 -> local
+PID 1064 -> /usr/local/libexec/evolution-data-server/evolution-alarm-notify
+PID 1064 -> /home/admin
+PID 1064 -> /
+PID 1064 -> /dev/null
+PID 1064 -> local
+PID 1064 -> local
+PID 1064 -> local
+PID 1064 -> /usr/local/etc/xdg
+PID 1064 -> /etc
+PID 1064 -> /home/admin/.local/share/applications
+PID 1064 -> /usr/local/share/applications
+PID 1064 -> /usr/share
+PID 873 -> /usr/local/sbin/gdm
+PID 873 -> /
+PID 873 -> /
+PID 873 -> /dev/null
+PID 873 -> local
+PID 873 -> /var/run/gdm/auth-for-gdm-7M3R12/database
+PID 873 -> local
+PID 873 -> local
+PID 873 -> local
+PID 873 -> local
+PID 873 -> local
+PID 873 -> local
+PID 873 -> /var/run/gdm/auth-for-admin-C5SJ12/database
+PID 1033 -> /usr/local/libexec/at-spi2-registryd
+PID 1033 -> /
+PID 1033 -> /
+PID 1033 -> /dev/null
+PID 1033 -> /dev/null
+PID 1033 -> /dev/null
+PID 1033 -> local
+PID 1033 -> local
+PID 1033 -> local
+PID 1097 -> /usr/local/libexec/ibus-engine-simple
+PID 1097 -> /home/admin
+PID 1097 -> /
+PID 1097 -> /dev/null
+PID 1097 -> /dev/null
+PID 1097 -> /dev/null
+PID 1097 -> local
+PID 1097 -> /home/admin/.config/ibus/bus
+PID 1097 -> /home/admin/.config/ibus/bus/98ad176e91cf8744bda3252c2f7cc2ab-unix-0
+PID 1097 -> local
+PID 1003 -> /usr/local/libexec/at-spi-bus-launcher
+PID 1003 -> /
+PID 1003 -> /
+PID 1003 -> /dev/null
+PID 1003 -> /dev/null
+PID 1003 -> /dev/null
+PID 1003 -> local
+PID 1035 -> /usr/local/libexec/evolution-calendar-factory
+PID 1035 -> /
+PID 1035 -> /
+PID 1035 -> /dev/null
+PID 1035 -> /dev/null
+PID 1035 -> /dev/null
+PID 1035 -> local
+PID 1035 -> /usr/local/lib/evolution-data-server/calendar-backends
+PID 1035 -> netlink
+PID 1067 -> /usr/local/bin/zeitgeist-datahub
+PID 1067 -> /home/admin
+PID 1067 -> /
+PID 1067 -> /dev/null
+PID 1067 -> local
+PID 1067 -> /home/admin/.local/share/zeitgeist/activity.sqlite
+PID 1067 -> /home/admin/.local/share/zeitgeist/activity.sqlite-wal
+PID 1067 -> /home/admin/.local/share
+PID 1067 -> /home/admin/.local/share/recently-used.xbel
+PID 1067 -> /home/admin/.config
+PID 1067 -> /usr/local/etc/xdg
+PID 1067 -> /etc
+PID 1067 -> /home/admin/.local/share/applications
+PID 1067 -> /usr/local/share/applications
+PID 1067 -> /usr/share
+PID 1099 -> /usr/local/libexec/dconf-service
+PID 1099 -> /
+PID 1099 -> /
+PID 1099 -> /dev/null
+PID 1099 -> /dev/null
+PID 1099 -> /dev/null
+PID 1099 -> local
+PID 172 -> /
+PID 172 -> /
+PID 2732 -> /usr/local/share/code-oss/code-oss
+PID 2732 -> /home/admin
+PID 2732 -> /
+PID 2732 -> /dev/null
+PID 2732 -> /dev/null
+PID 2732 -> /dev/null
+PID 2732 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2732 -> /home/admin/.pki/nssdb/cert9.db
+PID 2732 -> /home/admin/.pki/nssdb/key4.db
+PID 2732 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2732 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2732 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2732 -> /usr/local/share/code-oss/resources.pak
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2732 -> local
+PID 2732 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2732 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2732 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2732 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2732 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2732 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2732 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2732 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2732 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2732 -> /dev/null
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/User
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/User/globalStorage/state.vscdb
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> /dev/null
+PID 2732 -> local
+PID 2732 -> /dev/null
+PID 2732 -> local
+PID 2732 -> local
+PID 2732 -> /dev/null
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2732 -> /home/admin/.config/Code - OSS/User/workspaceStorage/fa05cce9eb3ee0f61ed4d2a9c35846f5/state.vscdb
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/User
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/terminal.log
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/sharedprocess.log
+PID 2732 -> /
+PID 2732 -> /etc
+PID 2732 -> /etc/localtime
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/userDataSync.log
+PID 2732 -> /dev/null
+PID 2732 -> local
+PID 2732 -> /home/admin/.vscode-oss/extensions
+PID 2732 -> local
+PID 2732 -> /home/admin/.vscode-oss/extensions/extensions.json
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/output_20250424T004227/tasks.log
+PID 2732 -> local
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/notebook.rendering.log
+PID 2732 -> /home/admin/.config/Code - OSS/SharedStorage
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/editSessions.log
+PID 2732 -> /home/admin/.config/Code - OSS/logs/20250424T004224/remoteTunnelService.log
+PID 716 -> /usr/sbin/syslogd
+PID 716 -> /
+PID 716 -> /
+PID 716 -> /dev/null
+PID 716 -> /dev/null
+PID 716 -> /dev/null
+PID 716 -> /dev/klog
+PID 716 -> internet6
+PID 716 -> internet
+PID 716 -> local
+PID 716 -> local
+PID 716 -> /var/run
+PID 716 -> /var/run/syslog.pid
+PID 716 -> /var/log/messages
+PID 716 -> /var/log/security
+PID 716 -> /var/log/auth.log
+PID 716 -> /var/log/maillog
+PID 716 -> /var/log/cron
+PID 716 -> /var/log/debug.log
+PID 716 -> /var/log/daemon.log
+PID 716 -> /var/log/xferlog
+PID 716 -> /var/log/lpd-errs
+PID 716 -> /var/log/ppp.log
+PID 716 -> /var/log/bsdisks.log
+PID 780 -> /usr/local/bin/dbus-daemon
+PID 780 -> /
+PID 780 -> /
+PID 780 -> /dev/null
+PID 780 -> /dev/null
+PID 780 -> /dev/null
+PID 780 -> local
+PID 780 -> /usr/local/share/dbus-1/system.d
+PID 780 -> /usr/local/etc/dbus-1/system.d
+PID 780 -> /usr/local/share/dbus-1/system-services
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 780 -> local
+PID 1004 -> /usr/local/bin/dbus-daemon
+PID 1004 -> /
+PID 1004 -> /
+PID 1004 -> /dev/null
+PID 1004 -> /dev/null
+PID 1004 -> /dev/null
+PID 1004 -> local
+PID 1004 -> /usr/local/share/dbus-1/accessibility-services
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 1004 -> local
+PID 813 -> /usr/sbin/ntpd
+PID 813 -> /
+PID 813 -> /
+PID 813 -> /dev/null
+PID 813 -> /dev/null
+PID 813 -> /dev/null
+PID 813 -> local
+PID 813 -> internet6
+PID 813 -> internet
+PID 813 -> internet
+PID 813 -> internet6
+PID 813 -> internet6
+PID 813 -> internet
+PID 813 -> route
+PID 2734 -> /usr/local/share/code-oss/code-oss
+PID 2734 -> /home/admin
+PID 2734 -> /
+PID 2734 -> /dev/null
+PID 2734 -> /dev/null
+PID 2734 -> /dev/null
+PID 2734 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2734 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2734 -> local
+PID 2734 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2734 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2734 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2734 -> /usr/local/share/code-oss/resources.pak
+PID 2734 -> local
+PID 2734 -> /home/admin/.config/Code - OSS/Shared Dictionary/db
+PID 2734 -> local
+PID 2734 -> /home/admin/.config/Code - OSS/Trust Tokens
+PID 2734 -> local
+PID 2734 -> local
+PID 2734 -> local
+PID 2734 -> local
+PID 2734 -> local
+PID 2734 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2734 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2734 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2734 -> /usr/local/share/code-oss/resources.pak
+PID 2734 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2734 -> local
+PID 2734 -> local
+PID 2734 -> local
+PID 2734 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2734 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 1006 -> /usr/local/libexec/gvfsd
+PID 1006 -> /
+PID 1006 -> /
+PID 1006 -> /dev/null
+PID 1006 -> /dev/null
+PID 1006 -> /dev/null
+PID 1006 -> local
+PID 1070 -> /usr/local/libexec/ibus-dconf
+PID 1070 -> /home/admin
+PID 1070 -> /
+PID 1070 -> /dev/null
+PID 1070 -> /dev/null
+PID 1070 -> /dev/null
+PID 1070 -> local
+PID 1070 -> /home/admin/.config/ibus/bus
+PID 1070 -> /home/admin/.config/ibus/bus/98ad176e91cf8744bda3252c2f7cc2ab-unix-0
+PID 1070 -> local
+PID 1070 -> local
+PID 2735 -> /usr/local/share/code-oss/code-oss
+PID 2735 -> /home/admin
+PID 2735 -> /
+PID 2735 -> /dev/null
+PID 2735 -> /dev/null
+PID 2735 -> /dev/null
+PID 2735 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2735 -> local
+PID 2735 -> local
+PID 2735 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2735 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2735 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2735 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2735 -> /usr/local/share/code-oss/resources.pak
+PID 2735 -> local
+PID 2735 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2735 -> /usr/local/share/fonts/cantarell/Cantarell-VF.otf
+PID 2735 -> local
+PID 2735 -> local
+PID 2735 -> local
+PID 2735 -> /usr/local/share/fonts/cantarell/Cantarell-Regular.otf
+PID 2735 -> local
+PID 2735 -> /usr/local/share/fonts/dejavu/DejaVuSans.ttf
+PID 2735 -> /usr/local/share/fonts/cantarell/Cantarell-Bold.otf
+PID 2735 -> /usr/local/share/fonts/dejavu/DejaVuSansMono.ttf
+PID 2735 -> local
+PID 2735 -> local
+PID 2735 -> /usr/local/share/fonts/dejavu/DejaVuSansMono-Bold.ttf
+PID 2735 -> local
+PID 2735 -> /usr/local/share/fonts/dejavu/DejaVuSansMono-Oblique.ttf
+PID 2735 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2735 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2735 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2735 -> /usr/local/share/code-oss/resources.pak
+PID 2735 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2735 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2735 -> local
+PID 2735 -> local
+PID 2735 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2735 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2735 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2735 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2735 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2735 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2735 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2735 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2735 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2735 -> local
+PID 2735 -> /home/admin/.config/Code - OSS/User
+PID 2735 -> local
+PID 2735 -> local
+PID 2735 -> /home/admin/.config/Code - OSS/GPUCache/index
+PID 2735 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 1071 -> /usr/local/libexec/ibus-extension-gtk3
+PID 1071 -> /home/admin
+PID 1071 -> /
+PID 1071 -> /dev/null
+PID 1071 -> /dev/null
+PID 1071 -> /dev/null
+PID 1071 -> local
+PID 1071 -> local
+PID 1071 -> local
+PID 1071 -> /home/admin/.config/ibus/bus
+PID 1071 -> /home/admin/.config/ibus/bus/98ad176e91cf8744bda3252c2f7cc2ab-unix-0
+PID 1071 -> local
+PID 2736 -> /usr/local/share/code-oss/code-oss
+PID 2736 -> /home/admin
+PID 2736 -> /
+PID 2736 -> local
+PID 2736 -> /dev/null
+PID 2736 -> /dev/null
+PID 2736 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2736 -> local
+PID 2736 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2736 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2736 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2736 -> /usr/local/share/code-oss/resources.pak
+PID 2736 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2736 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2736 -> local
+PID 2736 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2736 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2736 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2736 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2736 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2736 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2736 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2736 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2736 -> local
+PID 2736 -> local
+PID 2736 -> /home/admin/.config/Code - OSS/User
+PID 2736 -> local
+PID 2736 -> /home/admin/.config/Code - OSS/GPUCache/index
+PID 2736 -> /home/admin/.config/Code - OSS/GPUCache/data_0
+PID 2736 -> /home/admin/.config/Code - OSS/GPUCache/data_1
+PID 2736 -> /home/admin/.config/Code - OSS/GPUCache/data_2
+PID 2736 -> /home/admin/.config/Code - OSS/GPUCache/data_3
+PID 2736 -> /home/admin/.config/Code - OSS/DawnWebGPUCache/index
+PID 2736 -> /home/admin/.config/Code - OSS/DawnWebGPUCache/data_0
+PID 2736 -> /home/admin/.config/Code - OSS/DawnWebGPUCache/data_1
+PID 2736 -> /home/admin/.config/Code - OSS/DawnWebGPUCache/data_2
+PID 2736 -> /home/admin/.config/Code - OSS/DawnWebGPUCache/data_3
+PID 2736 -> /home/admin/.config/Code - OSS/DawnGraphiteCache/index
+PID 2736 -> /home/admin/.config/Code - OSS/DawnGraphiteCache/data_0
+PID 2736 -> /home/admin/.config/Code - OSS/DawnGraphiteCache/data_1
+PID 2736 -> /home/admin/.config/Code - OSS/DawnGraphiteCache/data_2
+PID 2736 -> /home/admin/.config/Code - OSS/DawnGraphiteCache/data_3
+PID 2736 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2736 -> /
+PID 2736 -> /etc
+PID 2736 -> /etc/localtime
+PID 976 -> /usr/local/libexec/gdm-session-worker
+PID 976 -> /
+PID 976 -> /
+PID 976 -> /dev/null
+PID 976 -> local
+PID 976 -> local
+PID 976 -> local
+PID 976 -> local
+PID 976 -> local
+PID 976 -> local
+PID 1008 -> /usr/local/libexec/gvfs-udisks2-volume-monitor
+PID 1008 -> /
+PID 1008 -> /
+PID 1008 -> /dev/null
+PID 1008 -> /dev/null
+PID 1008 -> /dev/null
+PID 1008 -> local
+PID 1008 -> local
+PID 1008 -> /etc
+PID 1008 -> /etc/fstab
+PID 1040 -> /usr/local/libexec/gsd-usb-protection
+PID 1040 -> /home/admin
+PID 1040 -> /
+PID 1040 -> /dev/null
+PID 1040 -> local
+PID 1040 -> local
+PID 2737 -> /usr/local/share/code-oss/code-oss
+PID 2737 -> /home/admin
+PID 2737 -> /
+PID 2737 -> /dev/null
+PID 2737 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2737 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2737 -> local
+PID 2737 -> /home/admin/.pki/nssdb/cert9.db
+PID 2737 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2737 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2737 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2737 -> /usr/local/share/code-oss/resources.pak
+PID 2737 -> /home/admin/.pki/nssdb/key4.db
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> /dev/null
+PID 2737 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2737 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2737 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2737 -> /usr/local/share/code-oss/resources.pak
+PID 2737 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/exthost/exthost.log
+PID 2737 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2737 -> local
+PID 2737 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2737 -> local
+PID 2737 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2737 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2737 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2737 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2737 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2737 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2737 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2737 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2737 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> /home/admin/.config/Code - OSS/User
+PID 2737 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/exthost/vscode.git/Git.log
+PID 2737 -> local
+PID 2737 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/exthost/vscode.github/GitHub.log
+PID 2737 -> /dev/null
+PID 2737 -> local
+PID 2737 -> local
+PID 2737 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2737 -> /
+PID 2737 -> /etc
+PID 2737 -> /etc/localtime
+PID 2737 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 1041 -> /usr/local/libexec/gsd-media-keys
+PID 1041 -> /home/admin
+PID 1041 -> /
+PID 1041 -> /dev/null
+PID 1041 -> local
+PID 1041 -> local
+PID 1041 -> local
+PID 1041 -> local
+PID 1041 -> /var/run/ConsoleKit/inhibit/inhibit.GS2P12.pipe
+PID 1041 -> local
+PID 1041 -> /var/run/ConsoleKit/inhibit/inhibit.RAVP32.pipe
+PID 2738 -> /usr/local/share/code-oss/code-oss
+PID 2738 -> /home/admin
+PID 2738 -> /
+PID 2738 -> /dev/null
+PID 2738 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2738 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2738 -> local
+PID 2738 -> /home/admin/.pki/nssdb/cert9.db
+PID 2738 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2738 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2738 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2738 -> /usr/local/share/code-oss/resources.pak
+PID 2738 -> /home/admin/.pki/nssdb/key4.db
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> /dev/null
+PID 2738 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2738 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2738 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2738 -> /usr/local/share/code-oss/resources.pak
+PID 2738 -> /home/admin/.vscode-oss/extensions
+PID 2738 -> local
+PID 2738 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2738 -> local
+PID 2738 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2738 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2738 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2738 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2738 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2738 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2738 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2738 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2738 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2738 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> /home/admin/.config/Code - OSS/User
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> /dev/null
+PID 2738 -> /dev/null
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> local
+PID 2738 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2738 -> /
+PID 2738 -> /etc
+PID 2738 -> /etc/localtime
+PID 2738 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 1010 -> /usr/local/libexec/gvfs-mtp-volume-monitor
+PID 1010 -> /
+PID 1010 -> /
+PID 1010 -> /dev/null
+PID 1010 -> /dev/null
+PID 1010 -> /dev/null
+PID 1010 -> local
+PID 1010 -> local
+PID 1042 -> /usr/local/libexec/gsd-a11y-settings
+PID 1042 -> /home/admin
+PID 1042 -> /
+PID 1042 -> /dev/null
+PID 1042 -> local
+PID 1074 -> /usr/local/libexec/ibus-x11
+PID 1074 -> /home/admin
+PID 1074 -> /
+PID 1074 -> /dev/null
+PID 1074 -> /dev/null
+PID 1074 -> /dev/null
+PID 1074 -> local
+PID 1074 -> local
+PID 1074 -> local
+PID 1074 -> /home/admin/.config/ibus/bus
+PID 1074 -> /home/admin/.config/ibus/bus/98ad176e91cf8744bda3252c2f7cc2ab-unix-0
+PID 1074 -> local
+PID 2739 -> /usr/local/share/code-oss/code-oss
+PID 2739 -> /home/admin
+PID 2739 -> /
+PID 2739 -> /dev/null
+PID 2739 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2739 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2739 -> local
+PID 2739 -> /home/admin/.pki/nssdb/cert9.db
+PID 2739 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2739 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2739 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2739 -> /usr/local/share/code-oss/resources.pak
+PID 2739 -> /home/admin/.pki/nssdb/key4.db
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> /dev/null
+PID 2739 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2739 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2739 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2739 -> /usr/local/share/code-oss/resources.pak
+PID 2739 -> /home/admin/.config/Code - OSS/User
+PID 2739 -> /home/admin/.config/Code - OSS/User/keybindings.json
+PID 2739 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2739 -> local
+PID 2739 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2739 -> /home/admin/.config/Code - OSS/User/snippets
+PID 2739 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2739 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2739 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2739 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2739 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2739 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2739 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2739 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2739 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> /home/admin/.config/Code - OSS/User
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> /home/admin/ASPZ/practice2
+PID 2739 -> local
+PID 2739 -> /dev/null
+PID 2739 -> /dev/null
+PID 2739 -> local
+PID 2739 -> local
+PID 2739 -> /dev/null
+PID 2739 -> local
+PID 2739 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2739 -> /home/admin/ASPZ/practice2/1.c
+PID 2739 -> /home/admin/ASPZ/practice2/2_1.c
+PID 2739 -> local
+PID 2739 -> /home/admin/ASPZ/practice2/2_2.c
+PID 2739 -> /
+PID 2739 -> /etc
+PID 2739 -> /etc/localtime
+PID 2739 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2739 -> /home/admin/ASPZ/practice2/2_3.c
+PID 2739 -> /home/admin/ASPZ/practice2/2_4.c
+PID 2739 -> /home/admin/ASPZ/practice2/3_1
+PID 2739 -> /home/admin/ASPZ/practice2/3_1.c
+PID 2739 -> /home/admin/ASPZ/practice2/3_2
+PID 2739 -> /home/admin/ASPZ/practice2/3_2.c
+PID 2739 -> /home/admin/ASPZ/practice2/4
+PID 2739 -> /home/admin/ASPZ/practice2/4.c
+PID 2739 -> /home/admin/ASPZ/practice2/README.md
+PID 2739 -> /home/admin/ASPZ/practice2/variant_19
+PID 2739 -> /home/admin/ASPZ/practice2/variant_19.c
+PID 2739 -> /home/admin/ASPZ/practice1
+PID 2739 -> /home/admin/ASPZ/practice1/README.md
+PID 2739 -> /home/admin/ASPZ/practice1/char_freq.c
+PID 2739 -> /home/admin/ASPZ/practice1/execution.png
+PID 2739 -> /home/admin/ASPZ/.git/logs/refs/heads
+PID 2739 -> /home/admin/ASPZ/.git/logs/refs/heads/main
+PID 2739 -> /home/admin/ASPZ/.git/refs/remotes/origin
+PID 2739 -> /home/admin/ASPZ/.git/refs/remotes/origin/HEAD
+PID 2739 -> /home/admin/ASPZ/.git/ORIG_HEAD
+PID 2739 -> /home/admin/ASPZ/.git/refs/tags
+PID 2739 -> /home/admin/ASPZ/.git/refs/remotes
+PID 2739 -> /home/admin/ASPZ/.git/refs/heads
+PID 2739 -> /home/admin/ASPZ/.git/refs/heads/main
+PID 2739 -> /home/admin/ASPZ/.git/logs/refs/remotes
+PID 2739 -> /home/admin/ASPZ/.git/logs/refs/remotes/origin
+PID 2739 -> /home/admin/ASPZ/.git/logs/refs
+PID 2739 -> /home/admin/ASPZ/.git/logs/refs/remotes/origin/HEAD
+PID 2739 -> /home/admin/ASPZ/.git/logs/refs/remotes/origin/main
+PID 2739 -> /home/admin/ASPZ/.git
+PID 2739 -> /home/admin/ASPZ/.git/COMMIT_EDITMSG
+PID 2739 -> /home/admin/ASPZ/.git/FETCH_HEAD
+PID 2739 -> /home/admin/ASPZ/.git/HEAD
+PID 2739 -> /home/admin/ASPZ/.git/index
+PID 2739 -> /home/admin/ASPZ/.git/config
+PID 2739 -> /home/admin/ASPZ/.git/description
+PID 2739 -> /home/admin/ASPZ/.git/hooks
+PID 2739 -> /home/admin/ASPZ/practice7/19
+PID 2739 -> /home/admin/ASPZ/.git/info
+PID 2739 -> /home/admin/ASPZ/.git/logs
+PID 2739 -> /home/admin/ASPZ/.git/objects
+PID 2739 -> /home/admin/ASPZ/.git/packed-refs
+PID 2739 -> /home/admin/ASPZ/.git/refs
+PID 2739 -> /home/admin/ASPZ
+PID 2739 -> /home/admin/ASPZ/.gitignore
+PID 2739 -> /home/admin/ASPZ/.git/hooks/applypatch-msg.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/commit-msg.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/fsmonitor-watchman.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/post-update.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/pre-applypatch.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/pre-commit.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/pre-merge-commit.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/pre-push.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/pre-rebase.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/pre-receive.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/prepare-commit-msg.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/push-to-checkout.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/sendemail-validate.sample
+PID 2739 -> /home/admin/ASPZ/.git/hooks/update.sample
+PID 2739 -> /home/admin/ASPZ/.git/info/exclude
+PID 2739 -> /home/admin/ASPZ/.git/logs/HEAD
+PID 2739 -> /home/admin/ASPZ/.git
+PID 2739 -> /home/admin/ASPZ/.git/refs/remotes/origin/main
+PID 2739 -> /home/admin/ASPZ/practice3
+PID 2739 -> /home/admin/ASPZ/practice3/README.md
+PID 2739 -> /home/admin/ASPZ/practice3/task1
+PID 2739 -> /home/admin/ASPZ/practice3/task2
+PID 2739 -> /home/admin/ASPZ/practice3/task3
+PID 2739 -> /home/admin/ASPZ/practice3/task4
+PID 2739 -> /home/admin/ASPZ/practice3/task2/Dockerfile
+PID 2739 -> /home/admin/ASPZ/practice3/task5
+PID 2739 -> /home/admin/ASPZ/practice3/task6
+PID 2739 -> /home/admin/ASPZ/practice3/task3/Dockerfile
+PID 2739 -> /home/admin/ASPZ/practice3/task3/dice_roll.c
+PID 2739 -> /home/admin/ASPZ/practice3/variant19
+PID 2739 -> /home/admin/ASPZ/practice3/task4/Dockerfile
+PID 2739 -> /home/admin/ASPZ/practice3/task4/numbers_generator.c
+PID 2739 -> /home/admin/ASPZ/practice4
+PID 2739 -> /home/admin/ASPZ/practice3/task5/Dockerfile
+PID 2739 -> /home/admin/ASPZ/practice3/task5/file_copy.c
+PID 2739 -> /home/admin/ASPZ/practice3/task5/input.txt
+PID 2739 -> /home/admin/ASPZ/practice3/task6/Dockerfile
+PID 2739 -> /home/admin/ASPZ/practice3/task6/stack_example.c
+PID 2739 -> /home/admin/ASPZ/practice3/variant19/Dockerfile
+PID 2739 -> /home/admin/ASPZ/practice3/variant19/server_load.c
+PID 2739 -> /home/admin/ASPZ/practice4/1.c
+PID 2739 -> /home/admin/ASPZ/practice4/19.c
+PID 2739 -> /home/admin/ASPZ/practice4/2.c
+PID 2739 -> /home/admin/ASPZ/practice4/3.c
+PID 2739 -> /home/admin/ASPZ/practice4/4_1.c
+PID 2739 -> /home/admin/ASPZ/practice4/4_2.c
+PID 2739 -> /home/admin/ASPZ/practice4/5.c
+PID 2739 -> /home/admin/ASPZ/practice4/6.c
+PID 2739 -> /home/admin/ASPZ/practice4/7_1.c
+PID 2739 -> /home/admin/ASPZ/practice4/7_2.c
+PID 2739 -> /home/admin/ASPZ/practice5
+PID 2739 -> /home/admin/ASPZ/practice5/19.c
+PID 2739 -> /home/admin/ASPZ/practice5/README.md
+PID 2739 -> /home/admin/ASPZ/practice6
+PID 2739 -> /home/admin/ASPZ/practice6/README.md
+PID 2739 -> /home/admin/ASPZ/practice6/makefile
+PID 2739 -> /home/admin/ASPZ/practice6/mem_issues.c
+PID 2739 -> /home/admin/ASPZ/practice6/mem_issues_dbg_asan.o
+PID 2739 -> /home/admin/ASPZ/practice7
+PID 2739 -> /home/admin/ASPZ/practice7/19.c
+PID 2739 -> /home/admin/ASPZ/practice7/out.txt
+PID 979 -> /usr/local/bin/gnome-keyring-daemon
+PID 979 -> /
+PID 979 -> /
+PID 979 -> /dev/null
+PID 979 -> /dev/null
+PID 979 -> /dev/null
+PID 979 -> local
+PID 979 -> local
+PID 979 -> local
+PID 979 -> local
+PID 979 -> local
+PID 979 -> local
+PID 1043 -> /usr/local/bin/ibus-daemon
+PID 1043 -> /home/admin
+PID 1043 -> /
+PID 1043 -> /dev/null
+PID 1043 -> local
+PID 1043 -> /usr/local/share/ibus/component
+PID 1043 -> /usr/local/share/ibus/component
+PID 1043 -> /usr/local/share/ibus/component/gtkextension.xml
+PID 1043 -> /usr/local/share/ibus/component
+PID 1043 -> /usr/local/share/ibus/component/gtkpanel.xml
+PID 1043 -> /usr/local/share/ibus/component
+PID 1043 -> /usr/local/share/ibus/component/dconf.xml
+PID 1043 -> /usr/local/share/ibus/component
+PID 1043 -> /usr/local/share/ibus/component/simple.xml
+PID 1043 -> local
+PID 1043 -> local
+PID 1043 -> local
+PID 1043 -> local
+PID 1043 -> local
+PID 1043 -> local
+PID 1043 -> local
+PID 2740 -> /usr/local/share/code-oss/code-oss
+PID 2740 -> /home/admin
+PID 2740 -> /
+PID 2740 -> /dev/null
+PID 2740 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2740 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2740 -> local
+PID 2740 -> /home/admin/.pki/nssdb/cert9.db
+PID 2740 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2740 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2740 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2740 -> /usr/local/share/code-oss/resources.pak
+PID 2740 -> /home/admin/.pki/nssdb/key4.db
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> /dev/null
+PID 2740 -> /home/admin/.config/Code - OSS/logs/20250424T004224/ptyhost.log
+PID 2740 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2740 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2740 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2740 -> /usr/local/share/code-oss/resources.pak
+PID 2740 -> local
+PID 2740 -> pts/0
+PID 2740 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2740 -> local
+PID 2740 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2740 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2740 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2740 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2740 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2740 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2740 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2740 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2740 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2740 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> /home/admin/.config/Code - OSS/User
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> /dev/null
+PID 2740 -> local
+PID 2740 -> /dev/null
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> /dev/null
+PID 2740 -> local
+PID 2740 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2740 -> /home/admin/.config/Code - OSS/User
+PID 2740 -> /home/admin/.config/Code - OSS/logs/20250424T004224/terminal.log
+PID 2740 -> /home/admin/.config/Code - OSS/logs/20250424T004224/sharedprocess.log
+PID 2740 -> /
+PID 2740 -> /etc
+PID 2740 -> /etc/localtime
+PID 2740 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2740 -> /dev/null
+PID 2740 -> local
+PID 2740 -> local
+PID 2740 -> /home/admin/.config/Code - OSS/logs/20250424T004224/remoteTunnelService.log
+PID 1012 -> /usr/local/libexec/gvfs-gphoto2-volume-monitor
+PID 1012 -> /
+PID 1012 -> /
+PID 1012 -> /dev/null
+PID 1012 -> /dev/null
+PID 1012 -> /dev/null
+PID 1012 -> local
+PID 1012 -> local
+PID 2741 -> /usr/local/share/code-oss/code-oss
+PID 2741 -> /home/admin/ASPZ
+PID 2741 -> /
+PID 2741 -> local
+PID 2741 -> local
+PID 2741 -> local
+PID 2741 -> local
+PID 2741 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2741 -> /dev/null
+PID 2741 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2741 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2741 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2741 -> /usr/local/share/code-oss/resources.pak
+PID 2741 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/exthost/exthost.log
+PID 2741 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2741 -> local
+PID 2741 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2741 -> local
+PID 2741 -> local
+PID 2741 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2741 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2741 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2741 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2741 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2741 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2741 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2741 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2741 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2741 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2741 -> local
+PID 2741 -> local
+PID 2741 -> /home/admin/.config/Code - OSS/User
+PID 2741 -> local
+PID 2741 -> /dev/null
+PID 2741 -> local
+PID 2741 -> local
+PID 2741 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2741 -> /
+PID 2741 -> /etc
+PID 2741 -> /etc/localtime
+PID 2741 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 3061 -> /home/admin/ASPZ/practice7/19
+PID 3061 -> /dev/pts/0
+PID 3061 -> /home/admin/ASPZ/practice7
+PID 3061 -> /
+PID 3061 -> /dev/pts/0
+PID 3061 -> /home/admin/ASPZ/practice7/out.txt
+PID 3061 -> /dev/pts/0
+PID 3061 -> /home/admin/.config/Code - OSS/logs/20250424T004224/ptyhost.log
+PID 3061 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 3061 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 3061 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 3061 -> /usr/local/share/code-oss/resources.pak
+PID 3061 -> local
+PID 3061 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 3061 -> local
+PID 3061 -> /home/admin/.local/share/gvfs-metadata/root
+PID 3061 -> local
+PID 3061 -> local
+PID 3061 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 3061 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 3061 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 3061 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 3061 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 3061 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 3061 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 3061 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 3061 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 3061 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 3061 -> local
+PID 3061 -> local
+PID 3061 -> /home/admin/.config/Code - OSS/User
+PID 3061 -> local
+PID 3061 -> local
+PID 3061 -> local
+PID 3061 -> /dev/null
+PID 3061 -> local
+PID 3061 -> /dev/null
+PID 3061 -> local
+PID 3061 -> local
+PID 3061 -> /dev/null
+PID 3061 -> local
+PID 3061 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 3061 -> /home/admin/.config/Code - OSS/User
+PID 3061 -> /home/admin/.config/Code - OSS/logs/20250424T004224/terminal.log
+PID 3061 -> /home/admin/.config/Code - OSS/logs/20250424T004224/sharedprocess.log
+PID 3061 -> /
+PID 3061 -> /etc
+PID 3061 -> /etc/localtime
+PID 3061 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 3061 -> /dev/null
+PID 3061 -> local
+PID 3061 -> local
+PID 3061 -> /home/admin/.config/Code - OSS/logs/20250424T004224/remoteTunnelService.log
+PID 1045 -> /usr/local/libexec/gsd-power
+PID 1045 -> /home/admin
+PID 1045 -> /
+PID 1045 -> /dev/null
+PID 1045 -> local
+PID 1045 -> local
+PID 1045 -> local
+PID 1045 -> local
+PID 1045 -> /var/run/ConsoleKit/inhibit/inhibit.MUVH12.pipe
+PID 1045 -> /var/run/ConsoleKit/inhibit/inhibit.HZVP32.pipe
+PID 1078 -> /usr/local/libexec/ibus-portal
+PID 1078 -> /
+PID 1078 -> /
+PID 1078 -> /dev/null
+PID 1078 -> /dev/null
+PID 1078 -> /dev/null
+PID 1078 -> local
+PID 1078 -> /home/admin/.config/ibus/bus
+PID 1078 -> /home/admin/.config/ibus/bus/98ad176e91cf8744bda3252c2f7cc2ab-unix-0
+PID 1078 -> local
+PID 1047 -> /usr/local/libexec/gsd-screensaver-proxy
+PID 1047 -> /home/admin
+PID 1047 -> /
+PID 1047 -> /dev/null
+PID 1047 -> local
+PID 1079 -> /usr/local/bin/VBoxClient
+PID 1079 -> /
+PID 1079 -> /
+PID 1079 -> /dev/null
+PID 1079 -> /dev/null
+PID 1079 -> /dev/null
+PID 1079 -> /dev/vboxguest
+PID 1048 -> /usr/local/libexec/gsd-xsettings
+PID 1048 -> /home/admin
+PID 1048 -> /
+PID 1048 -> /dev/null
+PID 1048 -> local
+PID 1048 -> local
+PID 1048 -> local
+PID 1048 -> /usr/local/lib/gnome-settings-daemon-3.0/gtk-modules
+PID 1048 -> /usr/local/etc/fonts
+PID 1048 -> /usr/local/etc/fonts/fonts.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/10-hinting-slight.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/10-scale-bitmap-fonts.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/10-sub-pixel-none.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/10-yes-antialias.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/11-lcdfilter-default.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/20-unhint-small-dejavu-sans-mono.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/20-unhint-small-dejavu-sans.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/20-unhint-small-dejavu-serif.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/20-unhint-small-vera.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/30-metric-aliases.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/40-nonlatin.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/42-luxi-mono.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/45-generic.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/45-latin.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/48-spacing.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/49-sansserif.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/50-user.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/51-local.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/57-dejavu-sans-mono.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/57-dejavu-sans.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/57-dejavu-serif.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/60-generic.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/60-latin.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/65-fonts-persian.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/65-nonlatin.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/69-unifont.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/70-yes-bitmaps.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/80-delicious.conf
+PID 1048 -> /usr/local/etc/fonts/conf.d
+PID 1048 -> /usr/local/etc/fonts/conf.avail/90-synthetic.conf
+PID 1048 -> /home/admin/.local/share
+PID 1048 -> /usr/local/share/fonts
+PID 1048 -> /usr/share
+PID 1048 -> /home/admin
+PID 1048 -> /usr/local/share/fonts/100dpi
+PID 1048 -> /usr/local/share/fonts/75dpi
+PID 1048 -> /usr/local/share/fonts/OTF
+PID 1048 -> /usr/local/share/fonts/TTF
+PID 1048 -> /usr/local/share/fonts/Type1
+PID 1048 -> /usr/local/share/fonts/bitstream-vera
+PID 1048 -> /usr/local/share/fonts/cantarell
+PID 1048 -> /usr/local/share/fonts/cyrillic
+PID 1048 -> /usr/local/share/fonts/dejavu
+PID 1048 -> /usr/local/share/fonts/encodings
+PID 1048 -> /usr/local/share/fonts/misc
+PID 1048 -> /usr/local/share/fonts/urw-base35-fonts
+PID 1048 -> /usr/local/share/fonts/encodings/large
+PID 1080 -> /usr/local/bin/VBoxClient
+PID 1080 -> /
+PID 1080 -> /
+PID 1080 -> /dev/null
+PID 1080 -> /dev/null
+PID 1080 -> /dev/null
+PID 1080 -> /dev/vboxguest
+PID 1080 -> local
+PID 761 -> /usr/sbin/moused
+PID 761 -> /
+PID 761 -> /
+PID 761 -> /dev/null
+PID 761 -> /dev/null
+PID 761 -> /dev/null
+PID 761 -> /dev/psm0
+PID 761 -> /dev/consolectl
+PID 761 -> /var/run
+PID 761 -> /var/run/moused.pid
+PID 889 -> /usr/libexec/getty
+PID 889 -> /dev/ttyv0
+PID 889 -> /
+PID 889 -> /
+PID 889 -> /dev/ttyv0
+PID 889 -> /dev/ttyv0
+PID 889 -> /dev/ttyv0
+PID 1049 -> /usr/local/libexec/gsd-print-notifications
+PID 1049 -> /home/admin
+PID 1049 -> /
+PID 1049 -> /dev/null
+PID 1049 -> local
+PID 1049 -> local
+PID 2842 -> /usr/bin/su
+PID 2842 -> /dev/pts/0
+PID 2842 -> /home/admin/ASPZ/practice7
+PID 2842 -> /
+PID 2842 -> /dev/pts/0
+PID 2842 -> /dev/pts/0
+PID 2842 -> /dev/pts/0
+PID 2842 -> /home/admin/.config/Code - OSS/logs/20250424T004224/ptyhost.log
+PID 2842 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2842 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2842 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2842 -> /usr/local/share/code-oss/resources.pak
+PID 2842 -> local
+PID 2842 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2842 -> local
+PID 2842 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2842 -> local
+PID 2842 -> local
+PID 2842 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2842 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2842 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2842 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2842 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2842 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2842 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2842 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2842 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2842 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2842 -> local
+PID 2842 -> local
+PID 2842 -> /home/admin/.config/Code - OSS/User
+PID 2842 -> local
+PID 2842 -> local
+PID 2842 -> local
+PID 2842 -> /dev/null
+PID 2842 -> local
+PID 2842 -> /dev/null
+PID 2842 -> local
+PID 2842 -> local
+PID 2842 -> /dev/null
+PID 2842 -> local
+PID 2842 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2842 -> /home/admin/.config/Code - OSS/User
+PID 2842 -> /home/admin/.config/Code - OSS/logs/20250424T004224/terminal.log
+PID 2842 -> /home/admin/.config/Code - OSS/logs/20250424T004224/sharedprocess.log
+PID 2842 -> /
+PID 2842 -> /etc
+PID 2842 -> /etc/localtime
+PID 2842 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2842 -> /dev/null
+PID 2842 -> local
+PID 2842 -> local
+PID 2842 -> /home/admin/.config/Code - OSS/logs/20250424T004224/remoteTunnelService.log
+PID 858 -> /usr/sbin/sshd
+PID 858 -> /
+PID 858 -> /
+PID 858 -> /dev/null
+PID 858 -> /dev/null
+PID 858 -> /dev/null
+PID 858 -> internet6
+PID 858 -> internet
+PID 890 -> /usr/libexec/getty
+PID 890 -> /dev/ttyv1
+PID 890 -> /
+PID 890 -> /
+PID 890 -> /dev/ttyv1
+PID 890 -> /dev/ttyv1
+PID 890 -> /dev/ttyv1
+PID 986 -> /usr/local/libexec/gnome-session-binary
+PID 986 -> /home/admin
+PID 986 -> /
+PID 986 -> /dev/null
+PID 986 -> local
+PID 986 -> local
+PID 986 -> local
+PID 986 -> /usr/local/etc/xdg
+PID 986 -> /etc
+PID 986 -> /home/admin/.local/share/applications
+PID 986 -> /usr/local/share/applications
+PID 986 -> /usr/share
+PID 986 -> local
+PID 986 -> local
+PID 1050 -> /usr/local/libexec/gsd-sharing
+PID 1050 -> /home/admin
+PID 1050 -> /
+PID 1050 -> /dev/null
+PID 1050 -> local
+PID 2843 -> /bin/sh
+PID 2843 -> /dev/pts/0
+PID 2843 -> /home/admin/ASPZ/practice7
+PID 2843 -> /
+PID 2843 -> /dev/pts/0
+PID 2843 -> /dev/pts/0
+PID 2843 -> /dev/pts/0
+PID 2843 -> /dev/pts/0
+PID 2843 -> /home/admin/.config/Code - OSS/logs/20250424T004224/ptyhost.log
+PID 2843 -> /usr/local/share/code-oss/chrome_100_percent.pak
+PID 2843 -> /usr/local/share/code-oss/chrome_200_percent.pak
+PID 2843 -> /usr/local/share/code-oss/locales/en-US.pak
+PID 2843 -> /usr/local/share/code-oss/resources.pak
+PID 2843 -> local
+PID 2843 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOG
+PID 2843 -> local
+PID 2843 -> /home/admin/.local/share/gvfs-metadata/root
+PID 2843 -> local
+PID 2843 -> local
+PID 2843 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/LOCK
+PID 2843 -> /home/admin/.config/Code - OSS/logs/20250424T004224/window1/renderer.log
+PID 2843 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2843 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+PID 2843 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOG
+PID 2843 -> /home/admin/.config/Code - OSS/Service Worker/Database/LOCK
+PID 2843 -> /home/admin/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+PID 2843 -> /home/admin/.config/Code - OSS/Dictionaries/en-US-10-1.bdic
+PID 2843 -> /home/admin/.config/Code - OSS/Service Worker/Database/000003.log
+PID 2843 -> /home/admin/.config/Code - OSS/Local Storage/leveldb/000003.log
+PID 2843 -> local
+PID 2843 -> local
+PID 2843 -> /home/admin/.config/Code - OSS/User
+PID 2843 -> local
+PID 2843 -> local
+PID 2843 -> local
+PID 2843 -> /dev/null
+PID 2843 -> local
+PID 2843 -> /dev/null
+PID 2843 -> local
+PID 2843 -> local
+PID 2843 -> /dev/null
+PID 2843 -> local
+PID 2843 -> /home/admin/.config/Code - OSS/logs/20250424T004224/main.log
+PID 2843 -> /home/admin/.config/Code - OSS/User
+PID 2843 -> /home/admin/.config/Code - OSS/logs/20250424T004224/terminal.log
+PID 2843 -> /home/admin/.config/Code - OSS/logs/20250424T004224/sharedprocess.log
+PID 2843 -> /
+PID 2843 -> /etc
+PID 2843 -> /etc/localtime
+PID 2843 -> /usr/local/share/code-oss/v8_context_snapshot.bin
+PID 2843 -> /dev/null
+PID 2843 -> local
+PID 2843 -> local
+PID 2843 -> /home/admin/.config/Code - OSS/logs/20250424T004224/remoteTunnelService.log
+PID 891 -> /usr/libexec/getty
+PID 891 -> /dev/ttyv2
+PID 891 -> /
+PID 891 -> /
+PID 891 -> /dev/ttyv2
+PID 891 -> /dev/ttyv2
+PID 891 -> /dev/ttyv2
+PID 1019 -> /usr/local/bin/gnome-shell
+PID 1019 -> /home/admin
+PID 1019 -> /
+PID 1019 -> /dev/null
+PID 1019 -> local
+PID 1019 -> local
+PID 1019 -> local
+PID 1019 -> local
+PID 1019 -> local
+PID 1019 -> /etc
+PID 1019 -> /home/admin/.config
+PID 1019 -> /usr/local/etc/xdg
+PID 1019 -> /etc
+PID 1019 -> /home/admin/.local/share/applications
+PID 1019 -> /usr/local/share/applications
+PID 1019 -> /usr/share
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /home/admin/.config/ibus/bus
+PID 1019 -> /home/admin/.config/ibus/bus/98ad176e91cf8744bda3252c2f7cc2ab-unix-0
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> local
+PID 1019 -> local
+PID 1019 -> /etc
+PID 1019 -> /etc
+PID 1019 -> local
+PID 1019 -> /etc
+PID 1019 -> /usr/local/share/backgrounds/gnome
+PID 1019 -> /usr/local/share/backgrounds/gnome/blobs-d.svg
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /home/admin/.local/share/gvfs-metadata/root
+PID 1019 -> /etc/localtime
+PID 1019 -> local
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> local
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> local
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> local
+PID 1019 -> /etc/localtime
+PID 1019 -> local
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> local
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc/localtime
+PID 1019 -> /etc
+PID 1019 -> /etc/localtime
+PID 1019 -> local
+PID 1083 -> /usr/local/bin/zeitgeist-daemon
+PID 1083 -> /
+PID 1083 -> /
+PID 1083 -> /dev/null
+PID 1083 -> /dev/null
+PID 1083 -> /dev/null
+PID 1083 -> local
+PID 1083 -> /home/admin/.local/share/zeitgeist/activity.sqlite
+PID 1083 -> /home/admin/.local/share/zeitgeist/activity.sqlite-wal
+PID 1083 -> local
+PID 1115 -> /usr/local/libexec/gvfsd-metadata
+PID 1115 -> /
+PID 1115 -> /
+PID 1115 -> /dev/null
+PID 1115 -> /dev/null
+PID 1115 -> /dev/null
+PID 1115 -> local
+PID 1115 -> /home/admin/.local/share/gvfs-metadata/root
+PID 892 -> /usr/libexec/getty
+PID 892 -> /dev/ttyv3
+PID 892 -> /
+PID 892 -> /
+PID 892 -> /dev/ttyv3
+PID 892 -> /dev/ttyv3
+PID 892 -> /dev/ttyv3
+PID 1052 -> /usr/local/libexec/gsd-datetime
+PID 1052 -> /home/admin
+PID 1052 -> /
+PID 1052 -> /dev/null
+PID 1052 -> local
+PID 893 -> /usr/libexec/getty
+PID 893 -> /dev/ttyv4
+PID 893 -> /
+PID 893 -> /
+PID 893 -> /dev/ttyv4
+PID 893 -> /dev/ttyv4
+PID 893 -> /dev/ttyv4
+PID 1021 -> /usr/local/libexec/gnome-shell-calendar-server
+PID 1021 -> /
+PID 1021 -> /
+PID 1021 -> /dev/null
+PID 1021 -> /dev/null
+PID 1021 -> /dev/null
+PID 1021 -> local
+PID 1053 -> /usr/local/libexec/gsd-smartcard
+PID 1053 -> /home/admin
+PID 1053 -> /
+PID 1053 -> /dev/null
+PID 1053 -> local
+PID 446 -> /sbin/dhclient
+PID 446 -> /
+PID 446 -> /
+PID 446 -> /dev/null
+PID 446 -> /dev/null
+PID 446 -> /dev/null
+PID 446 -> local
+PID 446 -> local
+PID 510 -> /sbin/dhclient
+PID 510 -> /
+PID 510 -> /
+PID 510 -> /dev/null
+PID 510 -> /dev/null
+PID 510 -> /dev/null
+PID 510 -> /var/run/dhclient
+PID 510 -> local
+PID 510 -> /var/run/dhclient/dhclient.em0.pid
+PID 510 -> /dev/bpf
+PID 510 -> route
+PID 510 -> /var/db/dhclient.leases.em0
+PID 830 -> /usr/local/lib/polkit-1/polkitd
+PID 830 -> /var/empty
+PID 830 -> /
+PID 830 -> /dev/null
+PID 830 -> /dev/null
+PID 830 -> /dev/null
+PID 830 -> /usr/local/share/polkit-1/actions
+PID 830 -> local
+PID 830 -> /var/run/ConsoleKit
+PID 830 -> /var/run/ConsoleKit/database
+PID 830 -> /usr/local/etc/polkit-1/rules.d
+PID 830 -> /usr/local/share/polkit-1/rules.d
+PID 894 -> /usr/libexec/getty
+PID 894 -> /dev/ttyv5
+PID 894 -> /
+PID 894 -> /
+PID 894 -> /dev/ttyv5
+PID 894 -> /dev/ttyv5
+PID 894 -> /dev/ttyv5
+PID 958 -> /usr/local/bin/bsdisks
+PID 958 -> /
+PID 958 -> /
+PID 958 -> /dev/null
+PID 958 -> /dev/null
+PID 958 -> /dev/null
+PID 958 -> local
+PID 958 -> local
+PID 958 -> local
+PID 958 -> local
+PID 958 -> local
+PID 1054 -> /usr/local/libexec/gsd-housekeeping
+PID 1054 -> /home/admin
+PID 1054 -> /
+PID 1054 -> /dev/null
+PID 1054 -> local
+PID 1054 -> /etc
+PID 1054 -> /etc/fstab
+PID 895 -> /usr/libexec/getty
+PID 895 -> /dev/ttyv6
+PID 895 -> /
+PID 895 -> /
+PID 895 -> /dev/ttyv6
+PID 895 -> /dev/ttyv6
+PID 895 -> /dev/ttyv6
+PID 1055 -> /usr/local/libexec/gsd-sound
+PID 1055 -> /home/admin
+PID 1055 -> /
+PID 1055 -> /dev/null
+PID 1055 -> local
+PID 1055 -> /usr/local/share/sounds
+PID 1055 -> /home/admin/.local/share/sounds
+PID 1087 -> /usr/local/bin/VBoxClient
+PID 1087 -> /
+PID 1087 -> /
+PID 1087 -> /dev/null
+PID 1087 -> /dev/null
+PID 1087 -> /dev/null
+PID 1087 -> /dev/vboxguest
