@@ -3,7 +3,7 @@
 #include <time.h>
 
 float random_0_to_1() {
-    return (float)rand() / (float)RAND_MAX;
+    return (float)rand() / RAND_MAX;
 }
 
 float random_0_to_n(float n) {
