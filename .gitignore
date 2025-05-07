@@ -4,3 +4,4 @@
 *.exe
 !Dockerfile
 !makefile
+*.out
