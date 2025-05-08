@@ -128,10 +128,24 @@ admin@FreeBSD:~/ASPZ/practice8 $
 
 ### Опис рішення
 
+Поведінка write():
 
+Спочатку записує дані, доки є вільне місце.
+
+Коли місце закінчується, повертає -1.
+
+Значення errno:
+
+ENOSPC (28) - "No space left on device" (немає вільного місця).
 
 ### Запуск програми
 
 ```shell
+admin@FreeBSD:~/ASPZ/practice8 $ gcc -Wall 19.c -o 19
+admin@FreeBSD:~/ASPZ/practice8 $ ./19
 
+/: write failed, filesystem is full
+write: No space left on device
+errno: 28 (No space left on device)
+admin@FreeBSD:~/ASPZ/practice8 $
 ```
