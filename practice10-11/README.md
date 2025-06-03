@@ -52,3 +52,11 @@ admin@FreeBSD:~/ASPZ/practice10-11 $
 
 Створіть цикл, у якому викликається fork(), поки це можливо. Визначте, скільки процесів вдалося створити до помилки.
 
+### Реалізація
+
+```shell
+admin@FreeBSD:~/ASPZ/practice10-11 $ gcc -Wall 19.c -o 19
+admin@FreeBSD:~/ASPZ/practice10-11 $ ./19
+Кількість успішно створених процесів: 12120
+admin@FreeBSD:~/ASPZ/practice10-11 $
+```
